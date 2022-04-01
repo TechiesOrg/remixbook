@@ -1,9 +1,9 @@
-title:              Angular GraphQL Book
-email:              email@angulargraphqlbook.com
-description:        "Full Stack Development with Angular and GraphQL: Learn to build scalable monorepo and a complete Angular app using Apollo, Lerna, and GraphQL"
+title:              Remix Framework Book
+email:              email@remixbook.com
+description:        "Full Stack Development with React and Remix: Learn to build apps using web fundamentals"
 author:             Ahmed Bouchefra
 baseurl:            "/"
-url:                "http://angulargraphqlbook.com"
+url:                "http://remixframework.com"
 
 # Social Profiles
 twitter_username:   techiediaries
